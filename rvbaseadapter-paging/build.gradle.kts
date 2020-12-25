@@ -11,7 +11,7 @@ plugins {
 }
 
 group = "top.laoshuzi.android"
-version = AndroidBuildConfig.version_name
+version = "0.1.0"
 
 val ziweiRepositoryDomainName: String by project
 val ziweiRepositoryUsername: String by project

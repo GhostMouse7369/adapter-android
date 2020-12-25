@@ -49,7 +49,7 @@ dependencies {
     implementation(deps(Kotlin.stdlib_jdk8))
 
     //component
-    implementation(deps(AndroidX.recyclerview))
+    implementation(deps(AndroidX.viewpager2))
 
 }
 
